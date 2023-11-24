@@ -1,0 +1,103 @@
+body {
+        align-self: center;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      .main {
+        padding: 0 1cm;
+        display: flex;
+        justify-content: space-between;
+        height: 1.5cm;
+        align-items: center;
+        background-color: skyblue;
+      }
+      .link {
+        display: flex;
+        gap: 1cm;
+      }
+      .main1 {
+        padding: 0 1cm;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: skyblue;
+        height: 5cm;
+      }
+      .but {
+        background-color: skyblue;
+        margin: 0 -1cm;
+      }
+      .btn {
+        background-color: blue;
+        width: 90px;
+        height: 30px;
+        color: white;
+        font-size: 13px;
+        border-style: hidden;
+        border-radius: 10px;
+        align-items: center;
+      }
+      img {
+        width: 250px;
+        display: grid;
+      }
+      .box1 {
+        width: 10cm;
+      }
+      .head {
+        text-align: center;
+        height: 1.5cm;
+        margin-top: 0.3cm;
+      }
+      .container {
+        display: flex;
+        gap: 2cm;
+        justify-content: center;
+        text-align: justify;
+      }
+      .box3 {
+        width: 2.5cm;
+      }
+      .box3 div {
+        border: 2px solid blue;
+        width: 3cm;
+        height: 3cm;
+        border-radius: 10px;
+      }
+      .main2 {
+        height: 7cm;
+      }
+      .main3{
+        padding: 2cm 30%;
+        background-color: lightgrey;
+      }
+      .para{
+        width: 14cm;
+        font-size: 20px;
+        font-style: italic;
+      }
+      .para div{
+        text-align: end;
+        font-style: normal;
+      }
+      .main4{
+        padding: 5% 10%;
+      }
+      .container1{
+        display: flex;
+        justify-content: space-between;
+        padding: 2% 8%;
+        background-color: blue;
+        color: white;
+        border-radius: 10px;
+      }
+      .btn1{
+        width: 3cm;
+        height: 0.7cm;
+        background-color: blue;
+        color: white;
+        border: 2px solid white;
+        border-radius: 6px;
+      }
